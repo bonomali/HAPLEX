@@ -10,4 +10,6 @@ HAPLEXD combines a suffix tree genetic model with spectral clustering to compute
 
 To run the HAPLEXR example, clone the project, cd into the HAPLEX directory, and run:
 
+```python 
 python HAPLEXR.py ../example_data/snp_annotations.txt ../example_data/gene_annotations.txt ../example_data/dosages.txt  ../example_data/clusterings.txt ../example_data/expression_phenotypes.txt example
+```
