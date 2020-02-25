@@ -1,2 +1,2 @@
-A ready-to-go example in iPython notebook will be here by the end of February 10. 
-Please see the root-level README.
+
+Modified Ukkonen's generalized suffix tree for building haplotype tract trees has been fully adopted to Python, UkkonenGST.jar is no longer needed / relevant.
